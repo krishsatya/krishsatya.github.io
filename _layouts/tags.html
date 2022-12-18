@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class='o-wrapper'>
-
   <div class='o-grid'>
     <div class='o-grid__col'>
       <h4>{{ page.tag }}</h4>
@@ -11,8 +10,10 @@ layout: default
   </div>
 
   <div class='o-grid'>
-    {% for post in page.posts %}
-      {% include post-card.liquid %}
+    {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+        {% include post-card.liquid %}
+      {% endif %}
     {% endfor %}
   </div>
 
