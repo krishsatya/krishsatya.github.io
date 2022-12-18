@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The reason we're gathered here on our God-given, much-naeeded day
+title: The reason we're gathered here on our God-given, much-needed day
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/8.jpg'
 ---
