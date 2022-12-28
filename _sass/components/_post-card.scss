@@ -51,3 +51,12 @@
     }
   }
 }
+
+.c-post-card a:hover {
+  color: $color-text;
+  text-decoration: none;
+
+  .c-post-card__title {
+    color: $color-brand;
+  }
+}
