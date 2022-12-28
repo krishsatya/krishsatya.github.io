@@ -1,4 +1,4 @@
-
-.footnotes li p {
-  display: inline;
+.footnotes ol {
+  list-style-position: unset;
+  margin-left: $ol-footnote-spacing-unit;
 }
