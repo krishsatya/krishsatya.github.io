@@ -1,4 +1,28 @@
-.footnotes ol {
-  list-style-position: unset;
-  margin-left: $ol-footnote-spacing-unit;
+@mixin noemoji() {
+  text-decoration: none;
+  padding: 4px 4px 0px 3px;
+  font-family: $font-sans-emoji;
+  border: 0;
+  vertical-align: -.05em;
+  line-height: 0px;
+  color: $color-brand;
+}
+
+.footnotes {
+  ol {
+    list-style-position: unset;
+    margin-left: $ol-footnote-spacing-unit;
+  }
+
+  .reversefootnote {
+    @include noemoji()
+  }
+}
+
+.c-content a:not(.c-btn).reversefootnote {
+  @include noemoji()
+}
+
+.reversefootnote:hover {
+  background-color: $color-link-hover;
 }
