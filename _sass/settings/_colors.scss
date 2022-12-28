@@ -4,6 +4,7 @@
 
 // Colors
 $color-brand: #00A0FF;
+$color-brand-light: #a8dfff;
 $color-white: #FFFFFF;
 $color-text:  #323232;
 $color-gray:  #2B5F72;
@@ -17,5 +18,6 @@ $bg-color-gray:  #FAFAFA;
 $color-border: #E9EFF3;
 
 // Links
-$color-link:        $color-text;
-$color-link-hover:  $color-brand;
+$color-link:                 $color-text;
+$color-link-hover:           $color-brand;
+$color-footnote-link-hover:  $color-brand-light;

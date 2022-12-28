@@ -1,6 +1,7 @@
 @mixin noemoji() {
   text-decoration: none;
   padding: 4px 4px 0px 3px;
+  border-radius: 4px;
   font-family: $font-sans-emoji;
   border: 0;
   vertical-align: -.05em;
@@ -24,5 +25,5 @@
 }
 
 .reversefootnote:hover {
-  background-color: $color-link-hover;
+  background-color: $color-footnote-link-hover;
 }
