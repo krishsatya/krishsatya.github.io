@@ -10,9 +10,9 @@ title:       Burn After Reading
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://krishsatya.github.io/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
+url:         'https://krishsatya.com/' # The base hostname & protocol for your site
+twitter:     'https://twitter.com/mrkrishsatya'
+github:      'https://github.com/krishsatya'
 instagram:   ''
 facebook:    ''
 
