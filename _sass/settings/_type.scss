@@ -3,8 +3,8 @@
 // *----------------------------------*/
 
 $font-sans-emoji:
-  -apple-system,
   BlinkMacSystemFont,
+  system-ui,
   'Segoe UI',
   Helvetica,
   Arial,
@@ -12,6 +12,7 @@ $font-sans-emoji:
 
 $font-base:
   $font-sans-emoji,
+  -apple-system,
   'Apple Color Emoji',
   'Segoe UI Emoji',
   'Segoe UI Symbol';
