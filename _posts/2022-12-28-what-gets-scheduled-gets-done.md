@@ -17,4 +17,4 @@ Here I am about to publish my first blog post. I can confidently admit that the 
 
 ---
 
-[^exploration]: Twice per month, instead of "working", I dive deep into an unexplored topic that is tangential to the project I'm focused on. It serves both as a break from my day-to-day routine as well as an opportunity to learn something new. Quite often these sessions unblock future work and provide me a plethora of ideas to build on.
+[^exploration]: Twice per month, instead of "working", I dive deep into an unexplored topic that is tangential to the project I'm focused on. It serves both as a break from my day-to-day routine as well as an opportunity to learn something new. Quite often these sessions unblock future work and provide me with a plethora of ideas to build on.
