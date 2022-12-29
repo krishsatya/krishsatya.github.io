@@ -3,19 +3,18 @@
 // *----------------------------------*/
 
 $font-sans-emoji:
+  monospace;
+
+$font-base:
+  -apple-system,
   BlinkMacSystemFont,
-  system-ui,
   'Segoe UI',
   Helvetica,
   Arial,
-  sans-serif;
-
-$font-base:
-  $font-sans-emoji,
-  -apple-system,
   'Apple Color Emoji',
   'Segoe UI Emoji',
-  'Segoe UI Symbol';
+  'Segoe UI Symbol',
+  sans-serif;
 
 $font-monospace:  Courier, monospace;
 

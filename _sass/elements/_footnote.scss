@@ -1,10 +1,10 @@
 @mixin noemoji() {
   text-decoration: none;
-  padding: 4px 4px 0px 3px;
+  padding: 1px 7px;
+  font-size: 1.2em;
   border-radius: 4px;
   font-family: $font-sans-emoji;
   border: 0;
-  vertical-align: -.05em;
   line-height: 0px;
   color: $color-brand;
 }
