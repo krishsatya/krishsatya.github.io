@@ -3,4 +3,4 @@ layout: post
 title: ""
 ---
 
-> No man ever steps in the same river twice, for it's not the same river and he's not the same man. &nbsp;&nbsp;&nbsp;— Heraclitus
+> No person ever steps in the same river twice, for it's not the same river and they are not the same person. &nbsp;&nbsp;&nbsp;— Heraclitus
