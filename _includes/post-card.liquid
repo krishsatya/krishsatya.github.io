@@ -9,9 +9,11 @@
       {% endif %}
     </a>
 
-    <p class='c-post-card__excerpt u-font-medium'>
-      {{ post.content }}
-    </p>
+    <div class="c-content">
+      <p class='c-post-card__excerpt u-font-medium'>
+        {{ post.content }}
+      </p>
+    </div>
 
     <span class='c-post-card__date'>{{ post.date | date: '%d %b %Y' }}</span>
   </div>
