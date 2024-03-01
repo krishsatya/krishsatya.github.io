@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Reflections on the Holiday Paradox"
+title: "Slowing Down Time"
 ---
 
-Yesterday, I indulged in my first deep tissue massage. It was an experience that, prior to this moment, I would have shied away from in anticipation of the pain and discomfort that accompanies it. "I don't really *need* this in my life", I would say to myself. Yet, to my surprise, I found myself embracing and even enjoying the rollercoaster of uncomfortable sensations. This newfound willingness to dive into the unknown sparked a reflection on the nature of time and our perception of it.
+Today, I indulged in my first deep tissue massage. It was an experience that, prior to this moment, I would have shied away from in anticipation of the pain and discomfort that accompanies it. "I don't really *need* this in my life", I would say to myself. Yet, to my surprise, I found myself embracing and even enjoying the rollercoaster of uncomfortable sensations. This newfound willingness to dive into the unknown sparked a reflection on the nature of time and our perception of it.
 
 As we journey through life, it's natural to settle into routines, find our comfort zones and gradually close ourselves off to new things. We become accustomed to the ordinary, seeking out the security of the known and avoiding the risk of the unfamiliar. However, in doing so, we unwittingly contribute to the acceleration of time's passage.
 
