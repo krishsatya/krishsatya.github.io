@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embracing Time: Saying yes to novel experiences"
+title: "Reflections on the Holiday Paradox"
 ---
 
 Yesterday, I indulged in my first deep tissue massage. It was an experience that, prior to this moment, I would have shied away from in anticipation of the pain and discomfort that accompanies it. "I don't really *need* this in my life", I would say to myself. Yet, to my surprise, I found myself embracing and even enjoying the rollercoaster of uncomfortable sensations. This newfound willingness to dive into the unknown sparked a reflection on the nature of time and our perception of it.
